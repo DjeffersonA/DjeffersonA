@@ -3,15 +3,8 @@
 ### Redes Sociais
 <div>
   <a href="https://www.linkedin.com/in/djeffersonalmeida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/saintdejota/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/12162259141"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </div>
-/**
-### Specs
-<div>
-  <a href="#"><img src="https://img.shields.io/badge/Intel%20Core_i3_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
-</div>**/
 
 ### Linguagens
 <div>
