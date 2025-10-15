@@ -30,5 +30,5 @@
 </div>
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=DjeffersonA&show_icons=true&theme=dracula&locale=pt-br" width="400"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=DjeffersonA&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true" width="400"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjeffersonA&layout=compact&locale=pt-br" width="350"><br>
